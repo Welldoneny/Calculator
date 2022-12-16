@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Admin\Desktop\Work\C#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
